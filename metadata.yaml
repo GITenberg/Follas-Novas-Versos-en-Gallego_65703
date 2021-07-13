@@ -1,0 +1,42 @@
+_repo: Follas-Novas-Versos-en-Gallego_65703
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Castelar, Emilio
+    aliases:
+    - Castelar y Ripoll, Emilio
+    - Ripoll, Emilio Castelar
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '47510'
+    url: http://www.gutenberg.org/2009/agents/47510
+    wikipedia: https://es.wikipedia.org/wiki/Emilio_Castelar
+creator:
+  author:
+    agent_name: Castro, Rosalía de
+    aliases:
+    - Murguia, Rosalia Castro de
+    - De Murguía, Rosalía Castro
+    - Murguía, Rosalía Castro de
+    birthdate: 1837
+    deathdate: 1885
+    gutenberg_agent_id: '50266'
+    url: http://www.gutenberg.org/2009/agents/50266
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Rosal%C3%ADa_de_Castro
+    - https://gl.wikipedia.org/wiki/Rosal%C3%ADa_de_Castro
+description: ''
+gutenberg_issued: '2021-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65703'
+language: gl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Galician poetry'
+- !lcc 'PQ'
+- GITenberg
+title: 'Follas Novas: Versos en Gallego'
+url: http://www.gutenberg.org/ebooks/65703
